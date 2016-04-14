@@ -18,6 +18,8 @@ node server.js
 
 And visit <http://localhost:3000/>. Try opening multiple tabs!
 
+![demo](https://monosnap.com/file/tw63TEpmYGu4VhwKAvB79CwbyW8cPf.png)
+
 ## Changing the port
 
 You can change the port number by setting the `$PORT` environment variable before invoking any of the scripts above, e.g.,
